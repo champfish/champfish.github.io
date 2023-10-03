@@ -28,7 +28,7 @@
 			"position": "Research Assistant",
 			"url": "https://sites.google.com/view/perlab//",
 			"startDate": "2022-09-20",
-			"endDate": "Present",
+			"endDate": "now",
 			"summary": "Supervisor: Dr. Pedram Khalili, PhD",
 			"highlights": [
 				"Designed system for performing factorization with VCMA generated random numbers"
@@ -157,9 +157,14 @@
 	"publications": [],
 	"skills": [
 		{
-			"keywords": "Programming Languages",
-			"highlights": "Test"
-		}
+			"keywords": "Programming Languages: Verilog, Python (2 & 3), C++, Java, MATLAB, Node.js (w/ socket.io), JavaScript, C, Bash, Assembly, TI-BASIC"
+		},
+		{
+			"keywords": "Software: Microsoft Office (esp. Excel), Microsoft Windows, Linux, Git, NI Multisim, Cadence CAD, Virtuoso, Spice, Spectre, Shell"
+		},
+		{
+			"keywords": "Subjects:  Magnetic Tunnel Junctions, Neural Networks, Digital Design, PCB design, Cloud/Client Programming, Dynamic Programming"
+		}		
 	],
 	"interests": [],
 	"references": [],
