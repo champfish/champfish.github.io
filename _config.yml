@@ -245,7 +245,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/_toys/*"]
+  exclude: ["robots.txt", "assets/toys/*"]
   uglifier_args:
     harmony: true
 
