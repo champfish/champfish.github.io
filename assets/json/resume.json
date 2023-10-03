@@ -76,8 +76,8 @@
 			"name": "Institute of Electrical and Electronics Engineers",
 			"position": "Tutor",
 			"url": "https://www.ieee.org/",
-			"startDate": "2020-08-01",
-			"endDate": "2022-05-21",
+			"startDate": "2020",
+			"endDate": "2021",
 			"highlights": [
 				"Assists students in understanding concepts of Computer and Electrical Engineering courses"
 			]
@@ -136,13 +136,13 @@
 	"awards": [
 		{
 			"title": "Undergraduate Research Internship",
-			"date": "2020-01-01",
+			"date": "2020-01",
 			"awarder": "Texas Analog Center for Excellence",
 			"summary": "Funding for work done within the NeuroSpinCompute Laboratory"
 		},
 		{
 			"title": "Undergraduate Research Scholars Award",
-			"date": "2020-01-01",
+			"date": "2020-05",
 			"awarder": "The University of Texas at Dallas",
 			"summary": "Recognition of poster presentation of work done within the NeuroSpinCompute Laboratory"
 		},
