@@ -7,8 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-[Zampi Bomber](/assets/toys/bomber/)
+[Zampi Bomber](/assets/_toys/bomber/)
 
-[Evolution](/assets/toys/evolution/)
+[Evolution](/assets/_toys/evolution/)
 
-[School Simulator](/assets/toys/school/)
+[School Simulator](/assets/_toys/school/)
