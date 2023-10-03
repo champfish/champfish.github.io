@@ -63,7 +63,7 @@
 			]
 		},
 		{
-			"name": "Private Tutor",
+			"position": "Private Tutor",
 			"startDate": "2017-05-01",
 			"endDate": "2020-12-01",
 			"highlights": [
@@ -101,7 +101,7 @@
 			"startDate": "2022-09-29",
 			"endDate": "Present",
 			"score": "GPA of 4.000",
-			"courses": ["GPA of 4.000", "To be inputed"]
+			"courses": ["GPA of 4.000"]
 		},
 		{
 			"institution": "Northwestern University, Evanston, Illinois USA",
@@ -110,7 +110,7 @@
 			"startDate": "2022-09-20",
 			"endDate": "2023-06-16",
 			"score": "GPA of 4.000",
-			"courses": ["GPA of 4.000", "To be inputed"]
+			"courses": ["GPA of 4.000"]
 		},
 		{
 			"institution": "The Unviersity of Texas at Dallas, Richardson, Texas USA",
@@ -120,7 +120,7 @@
 			"startDate": "2022-01-18",
 			"endDate": "2022-08-20",
 			"score": "GPA of 4.000",
-			"courses": ["GPA of 4.000", "To be inputed"]
+			"courses": ["GPA of 4.000"]
 		},
 		{
 			"institution": "The Unviersity of Texas at Dallas, Richardson, Texas USA",
@@ -130,7 +130,7 @@
 			"startDate": "2018-08-20",
 			"endDate": "2021-12-25",
 			"score": "GPA of 3.953",
-			"courses": ["Summa Cum Laude", "Collegium V Honors", "GPA of 3.953"]
+			"courses": ["GPA of 3.953", "Summa Cum Laude", "Collegium V Honors"]
 		}
 	],
 	"awards": [
@@ -148,7 +148,7 @@
 		},
 		{
 			"title": "Board of Director Recognition",
-			"date": "2020-01-01",
+			"date": "2017",
 			"awarder": "McKinney Independent School District",
 			"summary": "Recognition for volunteer work performed in setting up and running a free coding class for elementary aged children"
 		}
@@ -156,9 +156,10 @@
 	"certificates": [],
 	"publications": [],
 	"skills": [
-		"Programming Languages: Verilog, Python (2 & 3), C++, Java, MATLAB, Node.js (w/ socket.io), JavaScript, C, Bash, Assembly, TI-BASIC",
-		"Software: Microsoft Office (esp. Excel), Microsoft Windows, Linux, Git, NI Multisim, Cadence CAD, Virtuoso, Spice, Spectre, Shell",
-		"Subjects:  Magnetic Tunnel Junctions, Neural Networks, Digital Design, PCB design, Cloud/Client Programming, Dynamic Programming"
+		{
+			"keywords": "Programming Languages",
+			"highlights": "Test"
+		}
 	],
 	"interests": [],
 	"references": [],
