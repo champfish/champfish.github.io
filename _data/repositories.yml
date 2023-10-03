@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - champfish
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - champfish/Morris
+  - lawrence-chillrud/ece475
+  - samshin102/Minesweeper-AI
+  - anita-1/emotionator
